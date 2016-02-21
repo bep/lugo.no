@@ -10,5 +10,10 @@ googleAnalytics = "UA-52478213-9"
         
 [params.hero]
 		slogan     = "This is not Spain"
-		subtitle   = "**Lugo** *(Galician pronunciation: [ˈluɣo])* is a city in northwestern Spain in the autonomous community of Galicia. It is the capital of the province of Lugo. **But this page is about something completely different.** What? Revisit this in the near future and you will get your answer."
+		subtitle   = """
+**Lugo** <small>(Galician pronunciation: [ˈluɣo])</small> is a city in northwestern Spain in the autonomous community of Galicia. It is the capital of the province of Lugo.  
+**But this page is about something completely different.**
+
+What? Revisit this in the near future and you will get your answer.
+"""
 		buttonText = "Coming Soon"
