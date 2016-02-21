@@ -21,7 +21,7 @@ test:
 checkout:
   post:
     - git submodule sync --recursive
-    - git submodule update --recursive --init
+    - git submodule update --recursive --init 
 
 deployment:
   s3up:
