@@ -22,4 +22,4 @@ deployment:
   s3up:
     branch: master
     commands:
-      - s3up -source=public/ -bucket=$BUCKET
+      - s3up -source=public/ -region=us-west-2 -bucket=$BUCKET
