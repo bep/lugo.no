@@ -18,6 +18,11 @@ test:
   override:
     - hugo -v
 
+checkout:
+  post:
+    - git submodule sync --recursive
+    - git submodule update --recursive --init
+
 deployment:
   s3up:
     branch: master
