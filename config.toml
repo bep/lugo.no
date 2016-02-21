@@ -6,7 +6,7 @@ theme = "creative"
 googleAnalytics = "UA-52478213-9"
 
 [params.navigation]
-		brand = "Lugo.no"
+		brand = "<img src='/img/lugo-logo.png'>"
         
 [params.hero]
 		slogan     = "This is not Spain"
