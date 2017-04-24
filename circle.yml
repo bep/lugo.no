@@ -16,6 +16,7 @@ test:
   pre:
     - pygmentize -V
   override:
+    - hugo env
     - hugo -v
 
 checkout:
